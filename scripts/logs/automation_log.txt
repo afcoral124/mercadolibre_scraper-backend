@@ -1,0 +1,16 @@
+[2025-05-07 13:23:52] Inicio de proceso: artículo='tarjeta grafica rtx 3090', páginas=1
+[2025-05-07 13:23:57] CSV guardado: backups/dataset_tarjeta_grafica_rtx_3090_2025-05-07_13-23-57.csv
+[2025-05-07 13:24:09] Resumen: 2 enviados, 0 duplicados, 0 errores.
+
+[2025-05-07 13:24:15] Inicio de proceso: artículo='tarjeta grafica rtx 3090', páginas=1
+[2025-05-07 13:24:20] CSV guardado: backups/dataset_tarjeta_grafica_rtx_3090_2025-05-07_13-24-20.csv
+[2025-05-07 13:24:26] Resumen: 0 enviados, 2 duplicados, 0 errores.
+
+[2025-05-07 13:33:08] Inicio de proceso: artículo='tarjeta grafica rtx 3090', páginas=1
+[2025-05-07 13:33:13] CSV guardado: backups/dataset_tarjeta_grafica_rtx_3090_2025-05-07_13-33-13.csv
+[2025-05-07 13:33:19] Resumen: 0 enviados, 2 duplicados, 0 errores.
+
+[2025-05-07 14:09:19] Inicio de proceso: artículo='microfono shure', páginas=2
+[2025-05-07 14:09:30] CSV guardado: backups/dataset_microfono_shure_2025-05-07_14-09-30.csv
+[2025-05-07 14:10:49] Resumen: 25 enviados, 36 duplicados, 0 errores.
+
