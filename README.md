@@ -164,7 +164,11 @@ crontab -e
 
 ## 🎥 Video de Demostración
 
-\[Enlace al video en Google Drive o YouTube]
+Video del Scraper en ejecución:
+https://youtu.be/u4GSGzfMa2g?si=OV6IExebIwkjr5jG
+
+Video del Script de automatización + API Rest & Endpoints + Base de datos desplegada en la nube
+https://youtu.be/ZLPAyebJn34?si=BdysK0i7pAR1ByQ5
 
 ---
 
