@@ -6,6 +6,16 @@ Este proyecto implementa un sistema completo de scraping, procesamiento y almace
 * API REST en FastAPI conectada a una base de datos PostgreSQL en la nube.
 * Script de automatización con respaldo y carga incremental.
 
+Se scrapean los siguientes campos de los artículos:
+
+-nombre_articulo (str): Nombre del producto o artículo.
+-precio (int): Precio del producto en COP.
+-calificacion_promedio (float): Valoración promedio del producto.
+-cantidad_calificaciones (int): Número de valoraciones que ha recibido.
+-descripcion (str): Descripción textual del producto.
+-enlace_articulo (str): URL única del artículo.
+
+Con estos campos extraidos puede realizarse un posterior análisis de mercado, entender cuales son los precios más competitivos, analizar qué productos representan un mejor beneficio en términos de calidad/precio contrastando las variables de calificaciones con la del precio, monitoreo de catálogos, etc.
 ---
 
 ## 🤝 Stack Tecnológico y Justificación
